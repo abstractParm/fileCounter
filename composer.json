@@ -1,0 +1,12 @@
+{
+    "name": "paramon/file-counter",
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ],
+        "psr-4": {
+            "Paramon\\FileCounter\\": "src/"
+        }
+    },
+    "require": {}
+}
